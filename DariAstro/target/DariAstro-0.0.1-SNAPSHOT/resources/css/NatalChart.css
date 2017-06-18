@@ -1,0 +1,39 @@
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.img-responsive{
+	height: 208px;
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+.table {
+    width: 60%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+#UserDetails_DateOfBirth #UserDetails_TimeOfBirth{
+ width: 100%;
+}
+
+#UserDetails_DateOfBirth #UserDetails_TimeOfBirth input{
+ width: 100%;
+}
+
+.form-horizontal .form-group {
+    margin-right: 6px;
+    margin-left: 4px;
+}
+
+#Gender {
+    width: 24.333333%;
+}
+
