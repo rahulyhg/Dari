@@ -1,2 +1,2 @@
-# DariAstroPro
+# yhgProject
 Project setup for Astrology
