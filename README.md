@@ -1,2 +1,2 @@
-# yhgProject
-Project setup for Astrology
+# 
+Project setup
